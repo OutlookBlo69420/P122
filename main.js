@@ -12,7 +12,7 @@ to_number = 0;
 
 function preload()
 {
-  apple = loadImage("apple.png");
+  apple = loadImage("apple.jpeg");
 }
 
 var SpeechRecognition = window.webkitSpeechRecognition;
